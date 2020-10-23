@@ -8,4 +8,5 @@ ngising:
   jangan lupa sabunan
 
 makan pake sayuran
-tidur jam 10 malam
+tidur jam 10 malam: 
+sebelum tidur sikat gigi dan pipis
