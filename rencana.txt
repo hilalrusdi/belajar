@@ -3,4 +3,7 @@ bangun pagi:
 mandi pagi:
    pake air dingin
    2 gayung
-ngising
+ngising:
+  disiram banyak
+  jangan lupa sabunan
+
